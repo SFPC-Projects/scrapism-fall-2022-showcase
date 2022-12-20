@@ -36,15 +36,17 @@
       function renderArtistBios() {
         for(artist in info) {
           let artistData = info[artist]
-          document.getElementById('bios').innerHTML += 
-          `
-          <bio-block
-            artist-name="${artistData['artist-name']}"
-            link-to-project="${artistData['link-to-project']}"
-            artist-bio="${artistData['artist-bio']}"
-            artist-links="${artistData['artist-links']}"
-          ></bio-block>
-          `
+          if (artistData['artist-bio']) {
+            document.getElementById('bios').innerHTML += 
+            `
+            <bio-block
+              artist-name="${artistData['artist-name']}"
+              link-to-project="${artistData['link-to-project']}"
+              artist-bio="${artistData['artist-bio']}"
+              artist-links="${artistData['artist-links']}"
+            ></bio-block>
+            `
+          }
         }
       }
       renderArtistBios()

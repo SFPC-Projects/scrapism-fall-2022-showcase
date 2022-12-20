@@ -1,13 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Roboto+Slab&family=Ubuntu+Condensed&display=swap');
 
+@font-face {
+    font-family: 'Happy Times';
+    src: url('fonts/happy-times-NG_regular_master_web.woff2') format('woff2');
+    font-style: normal;
+}
+
+
+
 :root {
     /*
 font-family: 'Croissant One', cursive;
 font-family: 'Roboto Slab', serif;
 font-family: 'Ubuntu Condensed', sans-serif;
     */
-    --h1-font: 'Ubuntu Condensed', sans-serif;
-    --subheader-font: 'Croissant One', cursive;
+    --h1-font: 'Happy Times';
+    --subheader-font: 'Happy Times';
     --body-text-font: 'Roboto Slab', serif;
 }
 

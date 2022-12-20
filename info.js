@@ -23,7 +23,7 @@ const info = {
     "xingshanhe": {
         "artist-name": "XingshanHe",
         "project-name": `Time Fly In Break-up Video`,
-        "link-to-project": "projects/xingshanhe/index.html",
+        "link-to-project": "https://chongkiu33.github.io/scrapism/showcase.html",
         "thumbnail": "projects/xingshanhe/thumbnail.png",
         "artist-bio": "<a href='https://www.instagram.com/gn1x3h/' target='_blank'>https://www.instagram.com/gn1x3h/</a>",
         "links": 'https://www.instagram.com/gn1x3h/'
@@ -62,5 +62,11 @@ const info = {
         "link-to-project": "https://kellyndassler.github.io/SFPC-Fall22/",
         "thumbnail": "projects/kellyn/thumbnail.png",
         "links": ["kdassler on Discord or linkedin.com/in/kellyndassler"]
+    },
+    "shalin": {
+        "artist-name": "Shalin",
+        "project-name": `the Future makers`,
+        "link-to-project": "https://sites.google.com/view/the-future-thefuture-thefuture/home?authuser=2",
+        "thumbnail": "projects/shalin/thumbnail.jpeg",
     }
 }
