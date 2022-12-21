@@ -80,6 +80,10 @@ section {
     border-bottom: 1px dashed white;
 }
 
+.mobile-only {
+    display: none;
+}
+
 .site {
     padding: 2.5em 4em 4em;
     margin: 0px;
@@ -157,6 +161,17 @@ footer a {
     }
     h5 {
         font-size: 20px;
+    }
+
+    iframe {
+        display: none;
+    }
+
+    .mobile-only {
+        display: block;
+        border: 1px dashed white;
+        padding: 20px;
+        margin-bottom: 90px;
     }
 
     .site {
