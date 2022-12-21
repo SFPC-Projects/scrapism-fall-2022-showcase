@@ -46,12 +46,16 @@ a:has(h1) {
     text-decoration: none;
 }
 
-h1, h2 {
+h1 {
     font-size: 64px;
 }
 
-h3 {
+h2 {
     font-size: 48px;
+}
+
+h3 {
+    font-size: 36px;
 }
 
 h4 {
@@ -64,7 +68,7 @@ h5 {
 }
 
 p, pre {
-    font-size: 28px;
+    font-size: 24px;
 }
 
 a {
