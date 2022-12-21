@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Roboto+Slab&family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
 @font-face {
     font-family: 'Happy Times';
@@ -6,14 +6,7 @@
     font-style: normal;
 }
 
-
-
 :root {
-    /*
-font-family: 'Croissant One', cursive;
-font-family: 'Roboto Slab', serif;
-font-family: 'Ubuntu Condensed', sans-serif;
-    */
     --h1-font: 'Happy Times';
     --subheader-font: 'Happy Times';
     --body-text-font: 'Roboto Slab', serif;
@@ -40,14 +33,11 @@ h1, h2, h3, h4, h5 {
 
 h1 {
     font-family: var(--h1-font);
+    font-size: 64px;
 }
 
 a:has(h1) {
     text-decoration: none;
-}
-
-h1 {
-    font-size: 64px;
 }
 
 h2 {
@@ -62,17 +52,15 @@ h4 {
     font-size: 32px;
 }
 
-h5 {
-    font-size: 24px;
-    margin-bottom: 0px;
-}
-
 p, pre {
     font-size: 24px;
 }
 
 a {
-    color: black;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: white;
 }
 
 ul {
@@ -93,15 +81,6 @@ section {
 .home, .about {
     color: white;
     background-color: black;
-}
-
-.home a, .about a {
-    color: white;
-}
-
-.social-links a {
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
 }
 
 .gallery {
