@@ -3,8 +3,11 @@ const info = {
         "artist-name": "Nat",
         "project-name": "compost.page",
         "link-to-project": "https://www.compost.page",
-        "artist-bio": "Nat is an artist and programmer currently living in the Bay Area. They grew up in California's Mojave Desert before leaving to study Computer Science at Stanford University. They have worked in XR for several companies, most recently TikTok. Currently, they are taking time off to cultivate their art practice before deciding what to do next. Their work uses simulation, computer graphics, and mixed media to speculate about language, ecology, and identity. They live with a bunch of plants and isopods, and one big mystery snail.",
-        "artist-site": "ndns.art",
+        "artist-bio": `Nat is an artist and programmer currently living in the Bay Area. They grew up in California's Mojave Desert before leaving to study Computer Science at Stanford University. They have worked in XR for several companies, most recently TikTok. Currently, they are taking time off to cultivate their art practice before deciding what to do next. Their work uses simulation, computer graphics, and mixed media to speculate about language, ecology, and identity. They live with a bunch of plants and isopods, and one big mystery snail.<br/><br/>
+        <span class='social-links'>
+        <a href='https://ndns.art' target='_blank'>Website</a> <br/>
+        </span>
+        `,
         "thumbnail": "projects/nat/thumbnail.png",
     },
     "esther": {
@@ -15,8 +18,9 @@ const info = {
         "artist-bio": `Esther Bouquet is an artist, book designer and researcher in new media. Her practice addresses surveillance, tracking, and control on the web. While uncovering their schemes, she seeks to highlight their dysfunction, both visually and critically, by probing the soil and structural layers of obfuscation. She creates experiments ranging from the size of the sheet of paper to the volume of a space; somewhere between writing, archiving, drawing, performing, designing, and programming. <br/><br/>
         Bouquet is a resident of LaMezz in Pierre Bénite, a recipient of the Jean-Luc Lagardère Fondation Grant, a former resident at the School For Poetic Computation, Les Storygraphes, and Le Bel Ordinaire. She has exhibited at Maintenant festival in Rennes, Draaimolen festival in Tilburg, at Eastern Bloc in Montreal, during the Biennale Internationale Design de Saint-Etienne and at the Cité du Design in Saint-Etienne, during the Radical Network festival and at the SFPC fall 2019 showcase in New York City; and more recently at the Maif Social Club in Paris during the Biennale Némo - International digital arts biennial and at L'Attrape-Couleur in Lyon during the exhibition of the artist Pierre Boggio.<br/><br>
         <span class='social-links'>
-        instagram: <a href='https://www.instagram.com/estherbouquet/' target='_blank'>https://www.instagram.com/estherbouquet/</a> <br/>
-        are.na: <a href='https://www.are.na/esther-bouquet' target='_blank'>https://www.are.na/esther-bouquet</a>
+        <a href='https://www.instagram.com/estherbouquet/' target='_blank'>Instagram</a> <br/>
+        <a href='https://www.are.na/esther-bouquet' target='_blank'>Are.na</a><br/>
+        <a href='https://estherbouquet.com' target='_blank'>Website</a>
         </span>`,
         "thumbnail": "projects/esther/thumbnail.png",
     },
@@ -25,7 +29,7 @@ const info = {
         "project-name": `Time Fly In Break-up Video`,
         "link-to-project": "https://chongkiu33.github.io/scrapism/showcase.html",
         "thumbnail": "projects/xingshanhe/thumbnail.png",
-        "artist-bio": "<a href='https://www.instagram.com/gn1x3h/' target='_blank'>https://www.instagram.com/gn1x3h/</a>",
+        "artist-bio": "<span class='social-links'><a href='https://www.instagram.com/gn1x3h/' target='_blank'>Instagram</a></span>",
         "links": 'https://www.instagram.com/gn1x3h/'
     },
     "jacob": {
@@ -34,8 +38,8 @@ const info = {
         "link-to-project": "https://jacobrivkin.github.io/astromagic/astroImage.html",
         "artist-bio": `Jacob Rivkin is an interdisciplinary artist living and working in Philadelphia, PA. His sculptures and animations explore how people internalize and experience landscape, memory, and wonder. He teaches Design and Animation courses in the Weitzman School of Design at the University of Pennsylvania and at the Mason Gross School of the Arts at Rutgers University.<br/><br/>
         <span class='social-links'>
-        <a href='http://jacobrivkin.com/' target='_blank'>http://jacobrivkin.com/</a> <br/>
-        IG:<a href='https://instagram.com/jacobrivkin' target='_blank'>@jacobrivkin</a>
+        <a href='http://jacobrivkin.com/' target='_blank'>Website</a> <br/>
+        <a href='https://instagram.com/jacobrivkin' target='_blank'>Instagram</a>
         </span>`,
         "thumbnail": "projects/jacob/thumbnail.gif",
     },
@@ -46,9 +50,9 @@ const info = {
         Currently, he works as a Tech Fellow at Eyebeam, where he works on building out open.Eyebeam, a new digital home for their artist fellows, and researching and implementing viable alternatives to surveillance-capitalist software in collaboration with the New Design Congress. <br/><br/>
         Brent has taught at Hunter College, worked with organizations like the MIT Center for Art, Science, and Technology and code.org, and spoken and presented his work across the country. He holds a BA in Philosophy from Reed College in Portland, OR, and an MPS in Interactive Telecommunications from New York University. He is a proud native of Charleston, West Virginia.<br/><br/>
         <span class='social-links'>
-        'professional' webpage: <a href='https://bront.rodeo/' target='_blank'>bront.rodeo</a> <br/>
-        galaxy brain webpage: <a href='https://blog.hellagrapes.club/' target='_blank'>blog.hellagrapes.club</a> <br/>
-        the only social media i am not banned from: <a href='https://post.lurk.org/@brent' target='_blank'>https://post.lurk.org/@brent</a>
+        <a href='https://bront.rodeo/' target='_blank'>'Professional' webpage</a> <br/>
+        <a href='https://blog.hellagrapes.club/' target='_blank'>Galaxy brain webpage</a> <br/>
+        <a href='https://post.lurk.org/@brent' target='_blank'>The only social media Brent is not banned from</a>
         </span>
         `,
         "link-to-project": "https://blog.hellagrapes.club/proud-employees/",

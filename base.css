@@ -99,6 +99,11 @@ section {
     color: white;
 }
 
+.social-links a {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
 .gallery {
     display: grid;
     grid-gap: 15px;

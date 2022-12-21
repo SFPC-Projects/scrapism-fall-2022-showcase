@@ -34,7 +34,7 @@ class BioBlock extends HTMLElement {
           <a href="${this.getAttribute('link-to-project')}">
             <h3>${this.getAttribute('artist-name')}</h3>
           </a>
-          <p>${this.getAttribute('artist-bio')}</p>
+          <p class="bio">${this.getAttribute('artist-bio')}</p>
         </div>
       </a>
       `;
