@@ -9,7 +9,7 @@ const info = {
     },
     "esther": {
         "artist-name": "Esther",
-        "project-name": `A Comprehensive Catalog of Versatile Ads for client_id "pZqDm/s7Lyy64f9jnGsbug=="`,
+        "project-name": `A Comprehensive Catalog of Versatile Ads for client_id "pZqDm/s7L&shyyy64f9jnGsbug=="`,
         "project-description": `A Comprehensive Catalog of Versatile Ads for client_id "pZqDm/s7Lyy64f9jnGsbug==" is an ongoing attempt to collect and compile ads that client_id "pZqDm/s7Lyy64f9jnGsbug==" encounters while browsing the web. Through the days, months and years, the catalog will expand with the ultimate goal of exhaustively and absurdly documenting and accumulating ads throughout one's lifetime.`,
         "link-to-project": "projects/esther/index.html",
         "artist-bio": `Esther Bouquet is an artist, book designer and researcher in new media. Her practice addresses surveillance, tracking, and control on the web. While uncovering their schemes, she seeks to highlight their dysfunction, both visually and critically, by probing the soil and structural layers of obfuscation. She creates experiments ranging from the size of the sheet of paper to the volume of a space; somewhere between writing, archiving, drawing, performing, designing, and programming. <br/><br/>

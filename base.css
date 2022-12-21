@@ -148,7 +148,7 @@ footer {
     background: black;
     color: white;
     text-transform: uppercase;
-    width: 100%;
+    width: 100vw;
     height: 60px;
     bottom: 0px;
     position: fixed;
@@ -203,7 +203,7 @@ footer a {
     }
 
     .site {
-        padding: 2em 2em 2em;
+        padding: 1.5em 2em 2em;
     }
 
     .gallery {
