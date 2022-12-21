@@ -36,10 +36,6 @@ h1 {
     font-size: 64px;
 }
 
-a:has(h1) {
-    text-decoration: none;
-}
-
 h2 {
     font-size: 48px;
 }
@@ -70,6 +66,10 @@ ul {
 section {
     margin-bottom: 20px;
     border-bottom: 1px dashed white;
+}
+
+.no-text-decoration {
+    text-decoration: none;
 }
 
 .site {
