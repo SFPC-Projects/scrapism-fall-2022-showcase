@@ -153,14 +153,21 @@ footer a {
 }
 
 @media screen and (max-width: 500px) {
-    h2, h3 {
-        font-size: 32px;
+    h1 {
+        font-size: 48px;
     }
-    h4 {
+
+    h2 {
+        font-size: 28px;
+        word-wrap: break-word;
+    }
+
+    h3 {
         font-size: 24px;
     }
-    h5 {
-        font-size: 20px;
+
+    p {
+        font-size: 22px;
     }
 
     iframe {
