@@ -1,11 +1,11 @@
 body{
 	margin: 100px auto;
-	width: 900px;
+	width: 750px;
 }
 
 section.slideshow{
-	width: 900px;
-	height: 592px;
+	width: 750px;
+	height: 493px;
 	cursor: pointer;
 	position: relative;
 }
@@ -14,8 +14,8 @@ section.slideshow img{
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 900px;
-	height: 592px;
+	width: 750px;
+	height: 493px;
 	z-index: 0;
 }
 
