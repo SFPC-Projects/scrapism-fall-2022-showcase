@@ -5,7 +5,7 @@ const info = {
         "link-to-project": "https://www.compost.page",
         "artist-bio": `Nat is an artist and programmer currently living in the Bay Area. They grew up in California's Mojave Desert before leaving to study Computer Science at Stanford University. They have worked in XR for several companies, most recently TikTok. Currently, they are taking time off to cultivate their art practice before deciding what to do next. Their work uses simulation, computer graphics, and mixed media to speculate about language, ecology, and identity. They live with a bunch of plants and isopods, and one big mystery snail.<br/><br/>
         <span class='social-links'>
-        <a href='https://ndns.art' target='_blank'>Website</a> <br/>
+        <a href='https://www.instagram.com/natschager/' target='_blank'>Instagram</a> <br/>
         </span>
         `,
         "thumbnail": "projects/nat/thumbnail.png",
