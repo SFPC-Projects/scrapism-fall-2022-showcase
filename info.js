@@ -55,14 +55,14 @@ const info = {
         "thumbnail": "projects/brent/thumbnail.png",
         "links": ["professional webpage: bront.rodeo", "galaxy brain webpage: blog.hellagrapes.club"]
     },
-    "kellyn" : {
-        "artist-name": "kellyn",
-        "project-name": `Facebook (as) the center (that will) not hold...`,
-        "artist-bio": `Connect: kdassler on Discord or <a href='https://linkedin.com/in/kellyndassler' target='_blank'>linkedin.com/in/kellyndassler</a>`,
-        "link-to-project": "https://kellyndassler.github.io/SFPC-Fall22/",
-        "thumbnail": "projects/kellyn/thumbnail.png",
-        "links": ["kdassler on Discord or linkedin.com/in/kellyndassler"]
-    },
+    // "kellyn" : {
+    //     "artist-name": "kellyn",
+    //     "project-name": `Facebook (as) the center (that will) not hold...`,
+    //     "artist-bio": `Connect: kdassler on Discord or <a href='https://linkedin.com/in/kellyndassler' target='_blank'>linkedin.com/in/kellyndassler</a>`,
+    //     "link-to-project": "https://kellyndassler.github.io/SFPC-Fall22/",
+    //     "thumbnail": "projects/kellyn/thumbnail.png",
+    //     "links": ["kdassler on Discord or linkedin.com/in/kellyndassler"]
+    // },
     "shalin": {
         "artist-name": "Shalin",
         "project-name": `the Future makers`,
