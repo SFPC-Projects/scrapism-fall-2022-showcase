@@ -16,6 +16,7 @@ class BioBlock extends HTMLElement {
 
           bio-block h3 {
             margin-bottom: 10px;
+            display: inline-block;
           }
 
           bio-block p {
