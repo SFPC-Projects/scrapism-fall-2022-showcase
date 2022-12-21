@@ -47,7 +47,7 @@ const info = {
         Brent has taught at Hunter College, worked with organizations like the MIT Center for Art, Science, and Technology and code.org, and spoken and presented his work across the country. He holds a BA in Philosophy from Reed College in Portland, OR, and an MPS in Interactive Telecommunications from New York University. He is a proud native of Charleston, West Virginia.<br/><br/>
         <span class='social-links'>
         'professional' webpage: <a href='https://bront.rodeo/' target='_blank'>bront.rodeo</a> <br/>
-        galaxy brain webpage: <a href='https://blog.hellagrapes.com/' target='_blank'>blog.hellagrapes.club</a> <br/>
+        galaxy brain webpage: <a href='https://blog.hellagrapes.club/' target='_blank'>blog.hellagrapes.club</a> <br/>
         the only social media i am not banned from: <a href='https://post.lurk.org/@brent' target='_blank'>https://post.lurk.org/@brent</a>
         </span>
         `,
@@ -58,7 +58,7 @@ const info = {
     // "kellyn" : {
     //     "artist-name": "kellyn",
     //     "project-name": `Facebook (as) the center (that will) not hold...`,
-    //     "artist-bio": `Connect: kdassler on Discord or <a href='https://linkedin.com/in/kellyndassler' target='_blank'>linkedin.com/in/kellyndassler</a>`,
+    //     "artist-bio": `Connect: kdassler on Discord or <a href='https://www.linkedin.com/in/kellyn-dassler/' target='_blank'>https://www.linkedin.com/in/kellyn-dassler/</a>`,
     //     "link-to-project": "https://kellyndassler.github.io/SFPC-Fall22/",
     //     "thumbnail": "projects/kellyn/thumbnail.png",
     //     "links": ["kdassler on Discord or linkedin.com/in/kellyndassler"]
