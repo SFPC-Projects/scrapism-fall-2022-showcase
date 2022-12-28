@@ -72,5 +72,22 @@ const info = {
         "project-name": `the Future makers`,
         "link-to-project": "https://sites.google.com/view/the-future-thefuture-thefuture/home?authuser=2",
         "thumbnail": "projects/shalin/thumbnail.jpeg",
+    },
+    "gladys": {
+        "artist-name": "Gladys",
+        "project-name": `20 TYPHOONS A YEAR, PHILIPPINE AREA OF RESPONSIBILITY`,
+        "project-description": `How are we reading the weather from the "most exposed country in the world to tropical storms"? <br/>
+        It is common for people to rely on TV and radio updates to stay informed about the weather and prepare for typhoons. With up to 20 typhoons occurring each year, it is essential for Filipinos to have access to accurate and timely information about potential class suspensions, crop protection measures, and evacuation needs. However, two years ago, the government shut down ABS-CBN, the largest TV network in the country that provided extensive disaster coverage on free airwaves. While there are many other news sources available, they do not have the same reach or coverage as ABS-CBN and Facebook has become a leading source of news for the country's 83.85 million users. <br/>
+        It is of interest to examine the language used to discuss the weather on the internet. In particular, it is worth exploring how people and institutions talk about the weather in a country that frequently experiences typhoons. <br/>
+        The collection includes nouns, verbs, adverbs and adjectives from English weather news headlines from the Philippines. <br/><br/>
+        More details on the Tropical Cyclone, https://regaladys.github.io/weather-report/`,
+        "link-to-project": "projects/gladys/index.html",
+        "artist-bio": `Gladys is a creative technologist and ICT for the People advocate from the Philippines. Through the Computer Professionals' Union she has been involved in free and open source software initiatives, election monitoring, and information security education for activists. She has worked on instrumentation control of mechanical installations and custom computing platforms using RaspberryPi. As a member of Artista para sa Agham, Teknolohiya at Kalikasan (Art-ATAK) or Artists for Science, Technology and Environment, an arts and crafts collective of scientists, engineers and technologists, she develops visual materials for social media and print that articulate and challenge current and basic problems in the intersections of science, technology and Philippine society. <br/><br/>
+        <span class='social-links'>
+        <a href='https://cp-union.com/' target='_blank'>Computer Professionals' Union</a> <br/>
+        <a href='https://www.instagram.com/art.atak.online/' target='_blank'>Art-ATAK</a><br/>
+        <a href='https://post.lurk.org/web/@gladys' target='_blank'>Social Media</a>
+        </span>`,
+        "thumbnail": "projects/gladys/thumbnail.png",
     }
 }

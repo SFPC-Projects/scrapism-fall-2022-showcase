@@ -101,6 +101,8 @@ bio-block:last-of-type {
 
 project-card img {
     max-width: 100%;
+    display: block;
+    margin: auto;
 }
 
 iframe {
